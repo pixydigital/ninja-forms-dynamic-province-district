@@ -1,3 +1,5 @@
+[![Kullanım Videosu]([https://i3.ytimg.com/vi/hSs65-rMez4/maxresdefault.jpg)]
+
 # Ninja Forms İl ve İlçe Dinamik Seçim
 
 Bu kod, Ninja Forms ile oluşturulan formlarda İl ve İlçe seçeneklerini dinamik olarak görüntülemek için kullanılır.
@@ -18,6 +20,6 @@ Bu kod, Ninja Forms ile oluşturulan formlarda İl ve İlçe seçeneklerini dina
 
    b. Kodu dosyanın içerisine, en alt kısma ekleyin.
 
-   c. [![Kullanım Videosu](https://i3.ytimg.com/vi/hSs65-rMez4/maxresdefault.jpg)](https://youtu.be/hSs65-rMez4)
+   c. [Kullanım Videosu](https://youtu.be/hSs65-rMez4)
 
 Teşekkürler ❤️ 
